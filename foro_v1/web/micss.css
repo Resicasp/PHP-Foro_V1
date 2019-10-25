@@ -1,0 +1,17 @@
+.cabecera{
+	width:450px;
+	height:180px;
+	background-color:#157cff;
+}
+
+.foto{
+	width:100px;
+	height:100px;
+	top:10px;
+	position:relative;
+}
+
+
+.boton{
+	border-radius: 12px
+}
